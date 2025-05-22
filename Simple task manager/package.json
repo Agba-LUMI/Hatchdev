@@ -1,0 +1,11 @@
+{
+  "name": "simple-task-manager",
+  "version": "1.0.0",
+  "description": "A task manager to create, update, complete, and list tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nwosu Paul",
+  "license": "ISC"
+}
